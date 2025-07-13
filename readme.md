@@ -2,7 +2,7 @@
 
 A customizable 88key keyboard.
 
-* Keyboard Maintainer: [LiWenLiu](https://github.com/LiuLiuQMK)
+* Keyboard Maintainer: [Epomaker](https://github.com/Epomaker)
 * Hardware Supported: EPOMAKER QK81 PCB with es32fs026 microcontroller
 
 Make example for this keyboard (after setting up your build environment):
