@@ -1,6 +1,6 @@
 # EPOMAKER QK81
 
-A customizable 88key keyboard.
+A customizable 81key keyboard.
 
 * Keyboard Maintainer: [Epomaker](https://github.com/Epomaker)
 * Hardware Supported: EPOMAKER QK81 PCB with es32fs026 microcontroller
