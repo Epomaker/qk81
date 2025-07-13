@@ -2,8 +2,6 @@
 
 A customizable 88key keyboard.
 
-![EPOMAKER QK81](https://raw.githubusercontent.com/Linyer-qwq/image/main/EPOMAKER QK81.jpg)
-
 * Keyboard Maintainer: [LiWenLiu](https://github.com/LiuLiuQMK)
 * Hardware Supported: EPOMAKER QK81 PCB with es32fs026 microcontroller
 
